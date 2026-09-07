@@ -35,7 +35,7 @@
       "updatedAt": "2026-07-22T13:16:49Z",
       "pushedAt": "2026-07-22T13:12:01Z",
       "focusState": "RESTING",
-      "activityScore": 0.612,
+      "activityScore": 0.61,
       "questSource": "none",
       "quests": []
     },
@@ -70,7 +70,7 @@
       "updatedAt": "2025-10-30T01:46:38Z",
       "pushedAt": "2025-10-30T01:46:34Z",
       "focusState": "RESTING",
-      "activityScore": 0.103,
+      "activityScore": 0.101,
       "questSource": "none",
       "quests": []
     },
@@ -101,7 +101,7 @@
       "updatedAt": "2026-07-22T13:43:22Z",
       "pushedAt": "2026-07-22T13:41:00Z",
       "focusState": "RESTING",
-      "activityScore": 0.612,
+      "activityScore": 0.61,
       "questSource": "none",
       "quests": []
     },
@@ -178,7 +178,7 @@
       "updatedAt": "2026-07-22T13:37:50Z",
       "pushedAt": "2026-07-19T15:46:24Z",
       "focusState": "RESTING",
-      "activityScore": 0.607,
+      "activityScore": 0.605,
       "questSource": "none",
       "quests": []
     },
@@ -220,7 +220,7 @@
       "updatedAt": "2026-07-22T13:37:23Z",
       "pushedAt": "2026-07-19T15:46:34Z",
       "focusState": "RESTING",
-      "activityScore": 0.652,
+      "activityScore": 0.65,
       "questSource": "none",
       "quests": []
     },
@@ -251,7 +251,7 @@
       "updatedAt": "2025-11-21T01:14:58Z",
       "pushedAt": "2025-11-21T01:14:55Z",
       "focusState": "RESTING",
-      "activityScore": 0.145,
+      "activityScore": 0.143,
       "questSource": "none",
       "quests": []
     },
@@ -296,7 +296,7 @@
       "updatedAt": "2026-07-24T12:01:47Z",
       "pushedAt": "2026-07-22T13:04:59Z",
       "focusState": "RESTING",
-      "activityScore": 0.657,
+      "activityScore": 0.655,
       "questSource": "none",
       "quests": []
     },
@@ -329,7 +329,7 @@
       "updatedAt": "2026-04-01T18:22:12Z",
       "pushedAt": "2026-04-01T18:22:08Z",
       "focusState": "RESTING",
-      "activityScore": 0.398,
+      "activityScore": 0.396,
       "questSource": "none",
       "quests": []
     },
@@ -360,7 +360,7 @@
       "updatedAt": "2026-07-13T08:51:50Z",
       "pushedAt": "2026-07-13T08:51:22Z",
       "focusState": "RESTING",
-      "activityScore": 0.595,
+      "activityScore": 0.593,
       "questSource": "none",
       "quests": []
     },
@@ -403,7 +403,7 @@
       "updatedAt": "2026-07-22T13:36:57Z",
       "pushedAt": "2026-07-22T13:05:42Z",
       "focusState": "RESTING",
-      "activityScore": 0.612,
+      "activityScore": 0.61,
       "questSource": "none",
       "quests": []
     },
@@ -438,7 +438,7 @@
       "updatedAt": "2026-07-22T13:43:09Z",
       "pushedAt": "2026-07-22T13:41:31Z",
       "focusState": "RESTING",
-      "activityScore": 0.612,
+      "activityScore": 0.61,
       "questSource": "issues",
       "quests": [
         {
@@ -478,7 +478,7 @@
       "updatedAt": "2026-07-27T00:17:22Z",
       "pushedAt": "2026-07-27T00:17:18Z",
       "focusState": "RESTING",
-      "activityScore": 0.621,
+      "activityScore": 0.619,
       "questSource": "none",
       "quests": []
     },
@@ -496,7 +496,7 @@
       "forks": 0,
       "watchers": 0,
       "openIssues": 0,
-      "sizeKb": 3896,
+      "sizeKb": 3943,
       "closedIssuesRecent": 0,
       "releaseCount": 0,
       "latestReleaseAt": null,
@@ -510,8 +510,8 @@
       "archived": false,
       "isFork": false,
       "createdAt": "2026-05-05T08:57:28Z",
-      "updatedAt": "2026-09-05T17:35:52Z",
-      "pushedAt": "2026-09-05T17:35:49Z",
+      "updatedAt": "2026-09-06T15:45:39Z",
+      "pushedAt": "2026-09-06T15:45:34Z",
       "focusState": "NOW",
       "activityScore": 0.699,
       "questSource": "none",
@@ -544,7 +544,7 @@
       "updatedAt": "2026-02-11T10:52:49Z",
       "pushedAt": "2026-01-30T22:54:40Z",
       "focusState": "RESTING",
-      "activityScore": 0.281,
+      "activityScore": 0.279,
       "questSource": "none",
       "quests": []
     },
@@ -578,7 +578,7 @@
       "updatedAt": "2026-06-06T14:08:04Z",
       "pushedAt": "2026-06-06T14:08:00Z",
       "focusState": "RESTING",
-      "activityScore": 0.524,
+      "activityScore": 0.522,
       "questSource": "none",
       "quests": []
     },
@@ -613,7 +613,7 @@
       "updatedAt": "2026-09-01T13:33:51Z",
       "pushedAt": "2026-09-02T19:33:35Z",
       "focusState": "NOW",
-      "activityScore": 0.738,
+      "activityScore": 0.736,
       "questSource": "issues",
       "quests": [
         {
@@ -652,7 +652,7 @@
       "updatedAt": "2026-07-22T13:05:50Z",
       "pushedAt": "2026-07-22T13:04:13Z",
       "focusState": "RESTING",
-      "activityScore": 0.612,
+      "activityScore": 0.61,
       "questSource": "none",
       "quests": []
     },
@@ -685,7 +685,7 @@
       "updatedAt": "2026-01-06T19:20:23Z",
       "pushedAt": "2026-01-06T19:20:19Z",
       "focusState": "RESTING",
-      "activityScore": 0.235,
+      "activityScore": 0.233,
       "questSource": "none",
       "quests": []
     },
@@ -718,7 +718,7 @@
       "updatedAt": "2026-07-22T13:09:52Z",
       "pushedAt": "2026-07-22T13:07:09Z",
       "focusState": "RESTING",
-      "activityScore": 0.612,
+      "activityScore": 0.61,
       "questSource": "none",
       "quests": []
     },
@@ -753,7 +753,7 @@
       "updatedAt": "2026-02-12T12:47:12Z",
       "pushedAt": "2026-02-12T12:47:08Z",
       "focusState": "RESTING",
-      "activityScore": 0.35,
+      "activityScore": 0.348,
       "questSource": "none",
       "quests": []
     },
@@ -788,7 +788,7 @@
       "updatedAt": "2026-02-11T10:52:41Z",
       "pushedAt": "2026-01-24T16:19:35Z",
       "focusState": "RESTING",
-      "activityScore": 0.314,
+      "activityScore": 0.312,
       "questSource": "issues",
       "quests": [
         {
@@ -828,7 +828,7 @@
       "updatedAt": "2026-02-11T10:45:58Z",
       "pushedAt": "2025-12-27T17:41:53Z",
       "focusState": "RESTING",
-      "activityScore": 0.215,
+      "activityScore": 0.214,
       "questSource": "none",
       "quests": []
     },
@@ -863,7 +863,7 @@
       "updatedAt": "2026-02-13T14:54:54Z",
       "pushedAt": "2026-02-09T15:34:26Z",
       "focusState": "RESTING",
-      "activityScore": 0.3,
+      "activityScore": 0.298,
       "questSource": "none",
       "quests": []
     },
@@ -894,7 +894,7 @@
       "updatedAt": "2026-02-11T10:52:48Z",
       "pushedAt": "2025-11-06T16:29:27Z",
       "focusState": "RESTING",
-      "activityScore": 0.118,
+      "activityScore": 0.116,
       "questSource": "none",
       "quests": []
     },
@@ -929,7 +929,7 @@
       "updatedAt": "2026-07-22T13:42:14Z",
       "pushedAt": "2026-07-22T13:40:09Z",
       "focusState": "RESTING",
-      "activityScore": 0.612,
+      "activityScore": 0.61,
       "questSource": "none",
       "quests": []
     },
@@ -964,7 +964,7 @@
       "updatedAt": "2026-06-03T10:29:54Z",
       "pushedAt": "2026-06-03T10:29:50Z",
       "focusState": "RESTING",
-      "activityScore": 0.518,
+      "activityScore": 0.516,
       "questSource": "none",
       "quests": []
     },
@@ -999,7 +999,7 @@
       "updatedAt": "2026-03-24T14:12:31Z",
       "pushedAt": "2025-10-14T00:19:37Z",
       "focusState": "RESTING",
-      "activityScore": 0.072,
+      "activityScore": 0.07,
       "questSource": "none",
       "quests": []
     },
@@ -1033,7 +1033,7 @@
       "updatedAt": "2026-07-22T13:08:49Z",
       "pushedAt": "2026-07-22T13:06:28Z",
       "focusState": "RESTING",
-      "activityScore": 0.612,
+      "activityScore": 0.61,
       "questSource": "none",
       "quests": []
     },
@@ -1051,7 +1051,7 @@
       "forks": 0,
       "watchers": 0,
       "openIssues": 3,
-      "sizeKb": 1264,
+      "sizeKb": 1265,
       "closedIssuesRecent": 0,
       "releaseCount": 0,
       "latestReleaseAt": null,
@@ -1066,7 +1066,7 @@
       "isFork": false,
       "createdAt": "2026-05-20T20:47:37Z",
       "updatedAt": "2026-09-04T06:43:43Z",
-      "pushedAt": "2026-09-06T07:03:02Z",
+      "pushedAt": "2026-09-07T07:14:18Z",
       "focusState": "NOW",
       "activityScore": 0.7,
       "questSource": "issues",
@@ -1116,7 +1116,7 @@
       "updatedAt": "2026-05-01T23:50:18Z",
       "pushedAt": "2026-03-13T16:04:22Z",
       "focusState": "RESTING",
-      "activityScore": 0.361,
+      "activityScore": 0.359,
       "questSource": "none",
       "quests": []
     },
@@ -1151,7 +1151,7 @@
       "updatedAt": "2026-08-18T01:23:20Z",
       "pushedAt": "2026-08-18T01:22:56Z",
       "focusState": "NEXT",
-      "activityScore": 0.663,
+      "activityScore": 0.661,
       "questSource": "issues",
       "quests": [
         {
@@ -1199,7 +1199,7 @@
       "updatedAt": "2026-03-24T14:12:51Z",
       "pushedAt": "2025-09-06T20:52:26Z",
       "focusState": "RESTING",
-      "activityScore": 0.001,
+      "activityScore": 0,
       "questSource": "none",
       "quests": []
     },
@@ -1268,7 +1268,7 @@
       "updatedAt": "2026-03-24T14:12:50Z",
       "pushedAt": "2025-09-08T10:34:07Z",
       "focusState": "RESTING",
-      "activityScore": 0.004,
+      "activityScore": 0.002,
       "questSource": "none",
       "quests": []
     },
@@ -1303,7 +1303,7 @@
       "updatedAt": "2026-08-10T12:40:15Z",
       "pushedAt": "2026-08-10T12:51:35Z",
       "focusState": "NEXT",
-      "activityScore": 0.649,
+      "activityScore": 0.647,
       "questSource": "none",
       "quests": []
     },
@@ -1338,7 +1338,7 @@
       "updatedAt": "2026-02-11T10:47:41Z",
       "pushedAt": "2026-02-11T10:47:15Z",
       "focusState": "RESTING",
-      "activityScore": 0.303,
+      "activityScore": 0.301,
       "questSource": "none",
       "quests": []
     },
@@ -1373,7 +1373,7 @@
       "updatedAt": "2026-07-23T10:02:52Z",
       "pushedAt": "2025-11-26T23:31:12Z",
       "focusState": "RESTING",
-      "activityScore": 0.202,
+      "activityScore": 0.2,
       "questSource": "none",
       "quests": []
     },
@@ -1408,7 +1408,7 @@
       "updatedAt": "2026-07-23T10:03:30Z",
       "pushedAt": "2026-02-11T03:08:25Z",
       "focusState": "RESTING",
-      "activityScore": 0.348,
+      "activityScore": 0.346,
       "questSource": "none",
       "quests": []
     },
@@ -1443,7 +1443,7 @@
       "updatedAt": "2026-03-23T20:07:23Z",
       "pushedAt": "2025-12-26T14:13:04Z",
       "focusState": "RESTING",
-      "activityScore": 0.213,
+      "activityScore": 0.211,
       "questSource": "none",
       "quests": []
     },
@@ -1478,7 +1478,7 @@
       "updatedAt": "2026-04-03T22:29:11Z",
       "pushedAt": "2026-04-03T00:36:51Z",
       "focusState": "RESTING",
-      "activityScore": 0.4,
+      "activityScore": 0.398,
       "questSource": "issues",
       "quests": [
         {
@@ -1510,7 +1510,7 @@
       "forks": 1,
       "watchers": 3,
       "openIssues": 123,
-      "sizeKb": 184618,
+      "sizeKb": 184843,
       "closedIssuesRecent": 3,
       "releaseCount": 0,
       "latestReleaseAt": null,
@@ -1525,9 +1525,9 @@
       "isFork": false,
       "createdAt": "2026-04-08T23:13:05Z",
       "updatedAt": "2026-09-05T22:27:31Z",
-      "pushedAt": "2026-09-05T22:27:27Z",
+      "pushedAt": "2026-09-07T08:32:56Z",
       "focusState": "NOW",
-      "activityScore": 0.804,
+      "activityScore": 0.805,
       "questSource": "none",
       "quests": []
     },
@@ -1562,7 +1562,7 @@
       "updatedAt": "2026-02-11T10:52:50Z",
       "pushedAt": "2025-11-06T18:51:54Z",
       "focusState": "RESTING",
-      "activityScore": 0.118,
+      "activityScore": 0.116,
       "questSource": "none",
       "quests": []
     },
@@ -1593,7 +1593,7 @@
       "updatedAt": "2026-02-11T10:52:49Z",
       "pushedAt": "2026-02-02T15:04:54Z",
       "focusState": "RESTING",
-      "activityScore": 0.286,
+      "activityScore": 0.284,
       "questSource": "none",
       "quests": []
     },
@@ -1628,7 +1628,7 @@
       "updatedAt": "2026-02-25T11:01:54Z",
       "pushedAt": "2026-02-25T11:01:38Z",
       "focusState": "RESTING",
-      "activityScore": 0.33,
+      "activityScore": 0.328,
       "questSource": "none",
       "quests": []
     },
@@ -1663,7 +1663,7 @@
       "updatedAt": "2025-09-26T18:51:30Z",
       "pushedAt": "2025-09-26T18:51:26Z",
       "focusState": "RESTING",
-      "activityScore": 0.039,
+      "activityScore": 0.037,
       "questSource": "none",
       "quests": []
     },
@@ -1704,7 +1704,7 @@
       "updatedAt": "2026-07-22T13:15:06Z",
       "pushedAt": "2026-07-22T13:10:14Z",
       "focusState": "RESTING",
-      "activityScore": 0.612,
+      "activityScore": 0.61,
       "questSource": "none",
       "quests": []
     },
@@ -1737,7 +1737,7 @@
       "updatedAt": "2026-07-22T13:14:35Z",
       "pushedAt": "2026-07-22T13:11:44Z",
       "focusState": "RESTING",
-      "activityScore": 0.612,
+      "activityScore": 0.61,
       "questSource": "none",
       "quests": []
     },
@@ -1772,7 +1772,7 @@
       "updatedAt": "2026-07-25T17:57:53Z",
       "pushedAt": "2026-07-25T17:57:37Z",
       "focusState": "RESTING",
-      "activityScore": 0.618,
+      "activityScore": 0.616,
       "questSource": "none",
       "quests": []
     },
@@ -1848,7 +1848,7 @@
       "updatedAt": "2026-05-14T08:35:42Z",
       "pushedAt": "2026-05-14T08:35:38Z",
       "focusState": "RESTING",
-      "activityScore": 0.479,
+      "activityScore": 0.477,
       "questSource": "none",
       "quests": []
     },
@@ -1866,7 +1866,7 @@
       "forks": 0,
       "watchers": 0,
       "openIssues": 0,
-      "sizeKb": 398,
+      "sizeKb": 404,
       "closedIssuesRecent": 0,
       "releaseCount": 0,
       "latestReleaseAt": null,
@@ -1880,10 +1880,10 @@
       "archived": false,
       "isFork": false,
       "createdAt": "2026-06-22T10:19:11Z",
-      "updatedAt": "2026-08-28T17:03:55Z",
-      "pushedAt": "2026-07-19T15:53:15Z",
-      "focusState": "RESTING",
-      "activityScore": 0.607,
+      "updatedAt": "2026-09-06T22:00:43Z",
+      "pushedAt": "2026-09-06T22:00:38Z",
+      "focusState": "NOW",
+      "activityScore": 0.699,
       "questSource": "none",
       "quests": []
     },
@@ -1918,7 +1918,7 @@
       "updatedAt": "2026-02-25T08:18:57Z",
       "pushedAt": "2026-02-25T08:18:53Z",
       "focusState": "RESTING",
-      "activityScore": 0.375,
+      "activityScore": 0.373,
       "questSource": "none",
       "quests": []
     },
@@ -1952,7 +1952,7 @@
       "updatedAt": "2026-03-24T14:12:27Z",
       "pushedAt": "2025-10-27T06:55:24Z",
       "focusState": "RESTING",
-      "activityScore": 0.098,
+      "activityScore": 0.096,
       "questSource": "none",
       "quests": []
     },
@@ -1987,7 +1987,7 @@
       "updatedAt": "2026-07-08T07:43:20Z",
       "pushedAt": "2026-07-08T07:43:15Z",
       "focusState": "RESTING",
-      "activityScore": 0.585,
+      "activityScore": 0.583,
       "questSource": "none",
       "quests": []
     },
@@ -2020,7 +2020,7 @@
       "updatedAt": "2026-07-19T15:53:30Z",
       "pushedAt": "2026-07-19T15:53:21Z",
       "focusState": "RESTING",
-      "activityScore": 0.607,
+      "activityScore": 0.605,
       "questSource": "none",
       "quests": []
     },
@@ -2061,7 +2061,7 @@
       "updatedAt": "2026-07-22T13:14:27Z",
       "pushedAt": "2026-07-22T13:11:32Z",
       "focusState": "RESTING",
-      "activityScore": 0.702,
+      "activityScore": 0.7,
       "questSource": "none",
       "quests": []
     },
@@ -2079,7 +2079,7 @@
       "forks": 0,
       "watchers": 0,
       "openIssues": 0,
-      "sizeKb": 232,
+      "sizeKb": 236,
       "closedIssuesRecent": 0,
       "releaseCount": 0,
       "latestReleaseAt": null,
@@ -2093,10 +2093,10 @@
       "archived": false,
       "isFork": false,
       "createdAt": "2026-07-11T22:53:38Z",
-      "updatedAt": "2026-07-22T13:20:09Z",
-      "pushedAt": "2026-07-22T13:17:31Z",
-      "focusState": "RESTING",
-      "activityScore": 0.612,
+      "updatedAt": "2026-09-06T09:02:43Z",
+      "pushedAt": "2026-09-06T09:02:39Z",
+      "focusState": "NOW",
+      "activityScore": 0.698,
       "questSource": "tracker",
       "quests": [
         {
@@ -2140,7 +2140,7 @@
       "updatedAt": "2026-03-24T14:12:19Z",
       "pushedAt": "2025-11-24T06:42:00Z",
       "focusState": "RESTING",
-      "activityScore": 0.151,
+      "activityScore": 0.149,
       "questSource": "none",
       "quests": []
     },
@@ -2183,7 +2183,7 @@
       "updatedAt": "2026-07-22T13:07:11Z",
       "pushedAt": "2026-07-22T13:01:21Z",
       "focusState": "RESTING",
-      "activityScore": 0.612,
+      "activityScore": 0.61,
       "questSource": "issues",
       "quests": [
         {
@@ -2256,7 +2256,7 @@
       "updatedAt": "2026-07-22T13:13:58Z",
       "pushedAt": "2026-07-22T13:12:15Z",
       "focusState": "RESTING",
-      "activityScore": 0.612,
+      "activityScore": 0.61,
       "questSource": "none",
       "quests": []
     },
@@ -2298,7 +2298,7 @@
       "updatedAt": "2026-07-22T13:38:19Z",
       "pushedAt": "2026-06-06T14:07:12Z",
       "focusState": "RESTING",
-      "activityScore": 0.629,
+      "activityScore": 0.627,
       "questSource": "none",
       "quests": []
     },
@@ -2332,7 +2332,7 @@
       "updatedAt": "2026-03-24T14:12:28Z",
       "pushedAt": "2025-10-27T06:46:40Z",
       "focusState": "RESTING",
-      "activityScore": 0.098,
+      "activityScore": 0.096,
       "questSource": "none",
       "quests": []
     },
@@ -2400,7 +2400,7 @@
       "updatedAt": "2026-07-19T15:53:43Z",
       "pushedAt": "2026-07-19T15:53:39Z",
       "focusState": "RESTING",
-      "activityScore": 0.607,
+      "activityScore": 0.605,
       "questSource": "none",
       "quests": []
     },
@@ -2434,7 +2434,7 @@
       "updatedAt": "2026-07-22T13:17:18Z",
       "pushedAt": "2026-07-22T13:12:32Z",
       "focusState": "RESTING",
-      "activityScore": 0.612,
+      "activityScore": 0.61,
       "questSource": "none",
       "quests": []
     },
@@ -2500,7 +2500,7 @@
       "updatedAt": "2025-10-06T02:10:10Z",
       "pushedAt": "2025-10-06T02:10:07Z",
       "focusState": "RESTING",
-      "activityScore": 0.057,
+      "activityScore": 0.055,
       "questSource": "none",
       "quests": []
     },
@@ -2566,7 +2566,7 @@
       "updatedAt": "2026-06-03T09:23:42Z",
       "pushedAt": "2026-06-03T09:23:38Z",
       "focusState": "RESTING",
-      "activityScore": 0.518,
+      "activityScore": 0.516,
       "questSource": "none",
       "quests": []
     },
@@ -2601,7 +2601,7 @@
       "updatedAt": "2026-06-03T10:30:19Z",
       "pushedAt": "2026-06-03T10:30:12Z",
       "focusState": "RESTING",
-      "activityScore": 0.518,
+      "activityScore": 0.516,
       "questSource": "none",
       "quests": []
     },
@@ -2632,7 +2632,7 @@
       "updatedAt": "2026-03-24T14:12:47Z",
       "pushedAt": "2025-09-26T17:52:41Z",
       "focusState": "RESTING",
-      "activityScore": 0.039,
+      "activityScore": 0.037,
       "questSource": "none",
       "quests": []
     },
@@ -2665,7 +2665,7 @@
       "updatedAt": "2026-06-03T10:30:31Z",
       "pushedAt": "2026-06-03T10:30:25Z",
       "focusState": "RESTING",
-      "activityScore": 0.518,
+      "activityScore": 0.516,
       "questSource": "none",
       "quests": []
     },
@@ -2706,7 +2706,7 @@
       "updatedAt": "2026-02-25T02:49:34Z",
       "pushedAt": "2026-02-25T02:49:31Z",
       "focusState": "RESTING",
-      "activityScore": 0.329,
+      "activityScore": 0.327,
       "questSource": "none",
       "quests": []
     },
@@ -2741,7 +2741,7 @@
       "updatedAt": "2026-03-24T14:12:48Z",
       "pushedAt": "2025-09-09T11:47:26Z",
       "focusState": "RESTING",
-      "activityScore": 0.006,
+      "activityScore": 0.004,
       "questSource": "issues",
       "quests": [
         {
@@ -2781,7 +2781,7 @@
       "updatedAt": "2025-09-26T18:09:40Z",
       "pushedAt": "2025-09-26T18:09:37Z",
       "focusState": "RESTING",
-      "activityScore": 0.039,
+      "activityScore": 0.037,
       "questSource": "none",
       "quests": []
     },
@@ -2821,7 +2821,7 @@
       "updatedAt": "2026-07-22T13:38:49Z",
       "pushedAt": "2025-10-15T11:34:05Z",
       "focusState": "RESTING",
-      "activityScore": 0.12,
+      "activityScore": 0.118,
       "questSource": "none",
       "quests": []
     },
@@ -2856,7 +2856,7 @@
       "updatedAt": "2026-07-22T13:32:26Z",
       "pushedAt": "2026-07-22T13:30:54Z",
       "focusState": "RESTING",
-      "activityScore": 0.612,
+      "activityScore": 0.61,
       "questSource": "none",
       "quests": []
     },
@@ -2891,7 +2891,7 @@
       "updatedAt": "2026-07-19T15:53:48Z",
       "pushedAt": "2026-07-19T15:53:44Z",
       "focusState": "RESTING",
-      "activityScore": 0.607,
+      "activityScore": 0.605,
       "questSource": "none",
       "quests": []
     },
@@ -2926,7 +2926,7 @@
       "updatedAt": "2026-07-18T17:50:33Z",
       "pushedAt": "2026-07-18T17:50:29Z",
       "focusState": "RESTING",
-      "activityScore": 0.605,
+      "activityScore": 0.603,
       "questSource": "none",
       "quests": []
     },
@@ -2961,7 +2961,7 @@
       "updatedAt": "2026-03-24T14:12:40Z",
       "pushedAt": "2025-09-26T18:24:22Z",
       "focusState": "RESTING",
-      "activityScore": 0.039,
+      "activityScore": 0.037,
       "questSource": "none",
       "quests": []
     },
@@ -3002,7 +3002,7 @@
       "updatedAt": "2026-07-18T16:23:28Z",
       "pushedAt": "2026-07-18T16:23:25Z",
       "focusState": "RESTING",
-      "activityScore": 0.605,
+      "activityScore": 0.603,
       "questSource": "issues",
       "quests": [
         {
@@ -3050,7 +3050,7 @@
       "updatedAt": "2025-09-26T18:49:36Z",
       "pushedAt": "2025-09-26T18:49:33Z",
       "focusState": "RESTING",
-      "activityScore": 0.039,
+      "activityScore": 0.037,
       "questSource": "none",
       "quests": []
     },
@@ -3085,7 +3085,7 @@
       "updatedAt": "2025-10-31T16:03:26Z",
       "pushedAt": "2026-07-22T13:12:44Z",
       "focusState": "RESTING",
-      "activityScore": 0.612,
+      "activityScore": 0.61,
       "questSource": "none",
       "quests": []
     },
@@ -3120,7 +3120,7 @@
       "updatedAt": "2025-10-31T15:19:44Z",
       "pushedAt": "2025-10-31T15:19:40Z",
       "focusState": "RESTING",
-      "activityScore": 0.106,
+      "activityScore": 0.104,
       "questSource": "none",
       "quests": []
     },
@@ -3155,7 +3155,7 @@
       "updatedAt": "2025-11-01T14:53:09Z",
       "pushedAt": "2025-11-01T14:53:05Z",
       "focusState": "RESTING",
-      "activityScore": 0.108,
+      "activityScore": 0.106,
       "questSource": "none",
       "quests": []
     },
@@ -3186,7 +3186,7 @@
       "updatedAt": "2026-08-13T00:45:28Z",
       "pushedAt": "2026-08-13T00:45:25Z",
       "focusState": "NEXT",
-      "activityScore": 0.653,
+      "activityScore": 0.651,
       "questSource": "none",
       "quests": []
     },
@@ -3220,7 +3220,7 @@
       "updatedAt": "2026-03-24T14:12:43Z",
       "pushedAt": "2025-09-26T18:08:28Z",
       "focusState": "RESTING",
-      "activityScore": 0.039,
+      "activityScore": 0.037,
       "questSource": "none",
       "quests": []
     },
@@ -3255,7 +3255,7 @@
       "updatedAt": "2026-07-19T15:55:32Z",
       "pushedAt": "2026-07-19T15:55:27Z",
       "focusState": "RESTING",
-      "activityScore": 0.607,
+      "activityScore": 0.605,
       "questSource": "issues",
       "quests": [
         {
